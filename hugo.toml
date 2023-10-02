@@ -1,5 +1,0 @@
-baseURL = 'https://zaccaria-af.github.io/'
-languageCode = 'en-us'
-title = 'zaccaria-af'
-paginate = '5'
-theme = 'PaperMod'
