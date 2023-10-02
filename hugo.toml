@@ -11,22 +11,22 @@ theme = 'm10c'
     weight = 1
 
   [[menu.main]]
-    identifier = 'posts'
-    name = 'Posts'
-    url = '/posts'
+    identifier = 'tags'
+    name = 'Tags'
+    url = '/tags'
     weight = 2
 
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about"
+    url = "/about/"
     weight = 3
 
 [params]
   author = 'Zaccaria Al-Fatlawi'
   description = 'Documenting my learnings in the world of Artificial Intelligence'
-  avatar = 'avatar/Gentoo-penguin.jpg'
-  favicon = 'avatar/Gentoo-penguin.jpg'
+  avatar = '/assets/Gentoo-penguin.jpg'
+  favicon = '/assets/Gentoo-penguin.jpg'
 
   [[params.social]]
     icon = 'github'
