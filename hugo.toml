@@ -3,9 +3,30 @@ languageCode = 'en-us'
 title = 'Zaccaria Al-Fatlawi'
 theme = 'm10c'
 
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts'
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 3
+
 [params]
   author = 'Zaccaria Al-Fatlawi'
   description = 'Documenting my learnings in the world of Artificial Intelligence'
+  avatar = 'avatar/Gentoo-penguin.jpeg'
+  favicon = 'avatar/Gentoo-penguin.jpeg'
 
   [[params.social]]
     icon = 'github'
@@ -16,3 +37,10 @@ theme = 'm10c'
     icon = 'twitter'
     name = 'Twitter'
     url = 'https://twitter.com/zaccariaaf'
+
+  [params.style]
+    darkestColor = '#d35050'
+    darkColor = '#212121'
+    lightColor = '#f5e3e0'
+    lightestColor = '#f5f5f5'
+    primaryColor = '#ffffff'
