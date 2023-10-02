@@ -1,3 +1,18 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://zaccaria.alfatlawi.ch/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Zaccaria Al-Fatlawi'
+theme = 'm10c'
+
+[params]
+  author = 'Zaccaria Al-Fatlawi'
+  description = 'Documenting my learnings in the world of Artificial Intelligence'
+
+  [[params.social]]
+    icon = 'github'
+    name = 'GitHub'
+    url = 'https://github.com/zaccaria-af'
+
+  [[params.social]]
+    icon = 'twitter'
+    name = 'Twitter'
+    url = 'https://twitter.com/zaccariaaf'
