@@ -25,8 +25,8 @@ theme = 'm10c'
 [params]
   author = 'Zaccaria Al-Fatlawi'
   description = 'Documenting my learnings in the world of Artificial Intelligence'
-  avatar = 'avatar/Gentoo-penguin.jpeg'
-  favicon = 'avatar/Gentoo-penguin.jpeg'
+  avatar = 'avatar/Gentoo-penguin.jpg'
+  favicon = 'avatar/Gentoo-penguin.jpg'
 
   [[params.social]]
     icon = 'github'
