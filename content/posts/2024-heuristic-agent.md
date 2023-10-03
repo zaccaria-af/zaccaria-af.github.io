@@ -5,4 +5,3 @@ draft = false
 tags = ["ai", "minimax"]
 +++
 
-This is my first post! Hello world!
