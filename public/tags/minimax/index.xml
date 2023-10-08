@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>minimax on Zaccaria Al-Fatlawi</title>
+    <title>minimax on zaccaria-af</title>
     <link>https://zaccaria-af.github.io/tags/minimax/</link>
-    <description>Recent content in minimax on Zaccaria Al-Fatlawi</description>
+    <description>Recent content in minimax on zaccaria-af</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Oct 2023 17:31:02 +0200</lastBuildDate><atom:link href="https://zaccaria-af.github.io/tags/minimax/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,9 @@
       <pubDate>Mon, 02 Oct 2023 17:31:02 +0200</pubDate>
       
       <guid>https://zaccaria-af.github.io/posts/2024-heuristic-agent/</guid>
-      <description>This is my first post! Hello world!</description>
+      <description>For our AI lab at ZHAW, we were tasked with programming a heuristic agent for the game 2048. In this post, I will document my approach and what I learned.
+Initial Approach: Heuristics for Improved Play Finding the right heuristics Our first goal was to design heuristics and an algorithm that could outperform a random-move agent. I started by implementing two key heuristics:
+ Number of Empty Tiles: This metric represents the number of available moves on the board, with more empty tiles indicating more possible actions.</description>
     </item>
     
   </channel>
