@@ -1,5 +1,5 @@
 +++
-title = '2024 Heuristic Agent'
+title = 'Building a heuristig agent for the game 2048'
 date = 2023-10-02T17:31:02+02:00
 draft = false
 tags = ["ai", "minimax"]
