@@ -2,11 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>https://zaccaria-af.github.io/posts/2048-searchai/</loc>
     <lastmod>2023-10-17T15:03:02+02:00</lastmod>
   </url><url>
     <loc>https://zaccaria-af.github.io/tags/ai/</loc>
     <lastmod>2023-10-17T15:03:02+02:00</lastmod>
+=======
+    <loc>https://zaccaria-af.github.io/tags/ai/</loc>
+    <lastmod>2023-10-02T17:31:02+02:00</lastmod>
+  </url><url>
+    <loc>https://zaccaria-af.github.io/posts/2024-heuristic-agent/</loc>
+    <lastmod>2023-10-02T17:31:02+02:00</lastmod>
+>>>>>>> 63b47bcb6bd0b835660875f5e92907d52d8a8aec
   </url><url>
     <loc>https://zaccaria-af.github.io/tags/minimax/</loc>
     <lastmod>2023-10-17T15:03:02+02:00</lastmod>
